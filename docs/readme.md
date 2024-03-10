@@ -9,3 +9,9 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&color=black">
 </div>
 <br>
+
+<a href="../model/readme.md">MODEL</a>
+
+<a href="../react-native-app/readme.md">MOBILE APP</a>
+
+<a href="../backend/readme.md">BACKEND</a>
