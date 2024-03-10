@@ -1495,6 +1495,12 @@ Find My Doctor is a mobile application designed to help users find the best doct
   ]
 }
 ```
+# DEMO
+
+https://github.com/t-aswath/intel/assets/119417646/68fdc4da-f6f6-4e05-86d5-bee4742859da
+
+
+
 # Usecase
 1. **Urgent Medical Assistance:**
    - Quickly locate nearby doctors or hospitals for immediate attention during health emergencies.
