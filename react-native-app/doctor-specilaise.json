@@ -1,0 +1,28 @@
+{
+  "cough": ["respiratory", "emergency", "pulmonologist"],
+  "headache": ["neurologist", "general"],
+  "rash": ["dermatologist"],
+  "vomiting": ["gastroenterologist", "emergency"],
+  "fatigue": ["internal"],
+  "constipated": ["gastroenterologist"],
+  "serious": ["emergency"],
+  "severe": ["emergency"],
+  "cold": ["general"],
+  "pelvic": ["gynecologist", "urologist"],
+  "dizziness": ["general", "ent"],
+  "chills": ["general", "infectious"],
+  "allergies": ["allergist"],
+  "congestion": ["general", "ent"],
+  "aches": ["general", "rheumatologist"],
+  "nasal": ["general", "ent"],
+  "muscle": ["general", "rheumatologist"],
+  "sore throat": ["general", "ent"],
+  "fever": ["general", "infectious"],
+  "shortness of breath": ["emergency", "pulmonologist"],
+  "psychology": ["psychologist"],
+  "anxiety": ["psychologist"],
+  "depression": ["psychologist"],
+  "stress": ["psychologist"],
+  "cancer": ["oncologist"]
+}
+
