@@ -10,7 +10,8 @@
 </div>
 
 # CIMTA - MODEL 1
-#Overview
+
+# Overview
 CIMTA is a binary classification model designed to predict whether a patient can make an appointment based on various features. The model is implemented using TensorFlow's sequential model and aims to provide insights into the likelihood of a patient attending a scheduled appointment.
 
 # Features
